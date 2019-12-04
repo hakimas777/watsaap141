@@ -1,0 +1,76 @@
+blue='\033[34;1m'
+green='\033[32;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+echo $purple"___________________________________________________"
+echo $cyan" ["$red"+"$cyan"]Author by   : MR.L U K M A N "
+echo $cyan" ["$red"+"$cyan"]Team        : ICM MERUSAK DUNIA KOMPUTER            "
+echo $cyan" ["$red"+"$cyan"]Github      : https://github janda anak lim : va.com"
+echo $cyan" ["$red"+"$cyan"]Whatsapp : 088227941062"
+echo $cyan" ["$red"+"$cyan"]Instagram : Lukman Nurul Hakim"
+echo $cyan" ["$red"+"$cyan"]Facebook : Gk punya : v"
+echo $purple"___________________________________________________"
+echo ""
+echo $HIJAU"꧁ Nomer Kamu(+62××××××××××××)"
+
+echo $merah"PAKAI WATSAAP YANG AKTIF..BIAR BISA MASUK "
+
+read nick #membaca yang ditulis
+
+echo $HIJAU"꧁ Nomer Targed(+62××××××××××××)"
+
+echo $merah"pakai WAATSAP targed yang masih AKTIF BIAR BISA MASUK"
+read nick #membaca yang ditulis
+echo "[+] Syncing Target...";
+sleep 1
+echo "[+] Exploiting...";
+echo "[+] Done.";
+echo "Tunggu 10-20 Jam Untuk Mendapatkan Code.";
+read -p "Verify Code => " 342719;
+sleep 2
+echo "[+] Connecting to whatsapp.com...";
+echo "Login => $nomer"
+echo "[+] Sending Exploit...";
+echo $purple"___________________________________________________"
+echo "kamu =) yank"
+echo $purple"___________________________________________________"
+echo "kamu = )yank belum bangun ya?masih tidur"
+echo $purple"___________________________________________________"
+echo "kamu = )kangen tau?"
+echo $purple"___________________________________________________"
+echo "kamu = )woy kiki"
+echo $purple"___________________________________________________"
+echo "kamu = )udah siang loh biasanya udah bangun jam segini"
+echo $purple"___________________________________________________"
+echo "kamu = )kiki gw kangen sumpah.gw kangen jalan sama lu"
+echo $purple"___________________________________________________"
+echo "kamu = )kiki"
+echo $purple"___________________________________________________"
+echo "kamu = )mallem kiki sayank"
+echo $purple"___________________________________________________"
+echo "Targed = ) malem jg Lukman"
+echo $purple"___________________________________________________"
+echo "kamu = )lagi apa sayank?"
+echo $purple"___________________________________________________"
+echo "targed = )lagi maen sama temen"
+echo $purple"___________________________________________________"
+echo "kamu = )maen mulu"
+echo $purple"___________________________________________________"
+echo "targed = ) emang ada masalah kalo cewek main?"
+echo $purple"___________________________________________________"
+echo "kamu = ) emang main sama siapa?cewek apa cowok?"
+echo $purple"___________________________________________________"
+echo "targed = ) kalo sama cowok  gimana?"
+echo $purple"___________________________________________________"
+echo "kamu =  ) cemburu lah aku"
+echo $purple"___________________________________________________"
+echo "targed = ) lah mau mu apa-PUTUS?"
+echo $purple"___________________________________________________"
+echo "kamu = ) yaudah kita putus-kamu jg gk tau peka!!!!"
+echo $purple"___________________________________________________"
+echo "targed = ) okay"
+echo $purple"___________________________________________________"
+echo "kamu = santet RAIMU BIAR MATI"
+echo $purple"___________________________________________________"
